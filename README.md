@@ -2,4 +2,4 @@
 # You can adjust different values based on what you want (color/size/amount of particles/repulsion force) its pretty customizable and labeled.]
 # Leave feedback im new dont expect much tho fyi.
 
-# FYI FOR DUMBASSES DO NOT PASTE THE DEMO IF YOU WANT SETTINGS ASWELL THAT IS JUST THERE FOR A BASE TO GO OFF OF
+# FYI DO NOT PASTE THE DEMO IF YOU WANT SETTINGS ASWELL THAT IS JUST THERE FOR A BASE TO GO OFF OF
