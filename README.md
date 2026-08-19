@@ -1,1 +1,1 @@
-Made this to try python out pretty nice
+First project on python don't expect much still learning.
