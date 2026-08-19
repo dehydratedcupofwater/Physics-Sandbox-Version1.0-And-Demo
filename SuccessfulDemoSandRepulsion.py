@@ -5,7 +5,7 @@ import math
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Qusay's Sand Code Test")
+pygame.display.set_caption("dehydratedcupofwater's sand code test")
 clock = pygame.time.Clock()
 
 class Particle:
