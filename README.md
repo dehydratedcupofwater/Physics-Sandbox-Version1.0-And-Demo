@@ -1,1 +1,1 @@
-First project on python don't expect much still learning.
+first python project dont expect much still learning
